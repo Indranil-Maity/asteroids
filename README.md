@@ -1,6 +1,6 @@
 # Asteroids Game
 
-A classic 2D 2D arcade shooter built with Python and Pygame. Navigate your ship, dodge oncoming space debris, and shoot asteroids to split them apart before they destroy your ship!
+A classic 2D arcade shooter built with Python and Pygame. Navigate your ship, dodge oncoming space debris, and shoot asteroids to split them apart before they destroy your ship!
 
 ---
 
